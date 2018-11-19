@@ -1,7 +1,7 @@
 {
-  "name": "tilnefna",
+  "name": "tfk-elevinfo-api",
   "alias": [
-    "tilnefna.service.alheimsins.net"
+    "elevinfo.service.alheimsins.net"
   ],
   "type": "docker",
   "dotenv": "production.env",
